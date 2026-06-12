@@ -1,0 +1,6 @@
+{
+  "name": "POS Coffee Shop",
+  "description": "Aplikasi Point of Sale (POS) untuk Coffee Shop dengan fitur manajemen stok barang dan laporan grafik penjualan harian secara real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
